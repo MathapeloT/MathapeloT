@@ -6,6 +6,11 @@ When I am not busy learning and in total awe of the wonderful world of coding, I
 
 I hope to use my coding skills in the education industry to create an environment that is not only easy to use but also accessible to the now-known as No-fee paying schools. This way, future generations from even the most bleek of backgrounds will have a chance at being part of the dynamic and ever-changing world of tech. 
 
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="30px" height="30px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="30px" height="30px">
+
+
 - 👀 I’m interested in ..
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
