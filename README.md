@@ -13,12 +13,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathapeloT)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-- 👀 I’m interested in reading
+- 👀 I’m interested in reading and coding
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Gmail logo" width="20px" height="20px">
+- 📫 How to reach me- please refer back to my profile
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I sing really well
+- ⚡ Fun fact: I love road trips,chasing sunsets
 
 <!---
 MathapeloT/MathapeloT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
